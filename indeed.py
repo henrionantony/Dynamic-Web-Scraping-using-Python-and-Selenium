@@ -1,19 +1,14 @@
 from selenium import webdriver
-import datetime
-from datetime import datetime, timedelta
+from datetime import datetime
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.keys import Keys
 from selenium.common.exceptions import NoSuchElementException
-import time
 from time import time
 from time import sleep
 import pandas as pd
-import random
 from random import randint
-import os, shutil
-import glob
 
 website = """
 #########################################
