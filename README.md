@@ -2,7 +2,7 @@
 
 This Web Scraping project has been made for experimental purpose only.
 
-Both .py scripts have been designed to scrape https://www.welcometothejungle.com/ & https://www.indeed.fr/ using Python and Selenium WebDriver.
+Both .py scripts have been designed to scrape Welcome To The Jungle & Indeed websites using Python and Selenium WebDriver.
 
 The following filters have been applied: 
 
