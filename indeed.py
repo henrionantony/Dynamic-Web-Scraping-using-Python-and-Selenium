@@ -29,7 +29,6 @@ application_types = []
 publication_dates = []
 scraping_dates = []
 
-
 for job in job_list:
 
     opts = webdriver.FirefoxOptions()

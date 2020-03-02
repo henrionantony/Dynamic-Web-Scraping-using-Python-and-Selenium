@@ -9,7 +9,6 @@ from time import sleep
 import pandas as pd
 from random import randint
 
-
 website = """
 ########################################################
 #          WEBSITE: WELCOMETOTHEJUNGLE.COM/FR          #
